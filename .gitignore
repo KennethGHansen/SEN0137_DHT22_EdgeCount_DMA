@@ -1,0 +1,25 @@
+# Keil uVision build output
+*.axf
+*.elf
+*.hex
+*.o
+*.d
+*.crf
+*.htm
+*.lnp
+*.lst
+*.map
+*.sct
+
+# Keil project backups
+*.bak
+
+# Build folders
+Objects/
+Listings/
+
+# IDE settings
+*.uvguix.*
+*.uvopt.x
+*.uvoptx
+*.uvprojx.bak
