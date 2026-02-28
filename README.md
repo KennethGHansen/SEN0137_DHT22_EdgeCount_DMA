@@ -1,6 +1,3 @@
-
----
-
 # **SEN0137 DHT22 (DMA‑Based Dual‑Channel Capture)**
 
 High-performance STM32 HAL driver for the **SEN0137 / DHT22 / AM2302** sensor using **TIM input capture + DMA on two channels**.
